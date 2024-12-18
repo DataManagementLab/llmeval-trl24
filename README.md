@@ -9,7 +9,18 @@ a case study on the task of matching incoming payments to open invoices, an inst
 We also release a hand-crafted dataset based on the actual enterprise scenario to enable the research community to
 study the complexity of such enterprise tasks.**
 
-Please check out our [paper](https://openreview.net/pdf?id=m85fYEJtDc)!
+Please check out our [paper](https://openreview.net/pdf?id=m85fYEJtDc) and cite our work:
+
+```bibtex
+@inproceedings{bodensohn2024automating,
+	title={Automating Enterprise Data Engineering with {LLM}s},
+	author={Jan-Micha Bodensohn and Ulf Brackmann and Liane Vogel and Anupam Sanghi and Carsten Binnig},
+	booktitle={NeurIPS 2024 Third Table Representation Learning Workshop},
+	year={2024},
+	url={https://openreview.net/forum?id=m85fYEJtDc}
+}
+```
+
 
 ## Setup
 
